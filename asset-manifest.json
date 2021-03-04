@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AWARD/static/css/main.b8621ccf.chunk.css",
+    "main.js": "/AWARD/static/js/main.a1817f28.chunk.js",
+    "main.js.map": "/AWARD/static/js/main.a1817f28.chunk.js.map",
+    "runtime-main.js": "/AWARD/static/js/runtime-main.96a8de00.js",
+    "runtime-main.js.map": "/AWARD/static/js/runtime-main.96a8de00.js.map",
+    "static/js/2.dff13050.chunk.js": "/AWARD/static/js/2.dff13050.chunk.js",
+    "static/js/2.dff13050.chunk.js.map": "/AWARD/static/js/2.dff13050.chunk.js.map",
+    "index.html": "/AWARD/index.html",
+    "static/css/main.b8621ccf.chunk.css.map": "/AWARD/static/css/main.b8621ccf.chunk.css.map",
+    "static/js/2.dff13050.chunk.js.LICENSE.txt": "/AWARD/static/js/2.dff13050.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96a8de00.js",
+    "static/js/2.dff13050.chunk.js",
+    "static/css/main.b8621ccf.chunk.css",
+    "static/js/main.a1817f28.chunk.js"
+  ]
+}
