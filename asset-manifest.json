@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AWARD/static/css/main.bb1715ad.chunk.css",
-    "main.js": "/AWARD/static/js/main.eb16358e.chunk.js",
-    "main.js.map": "/AWARD/static/js/main.eb16358e.chunk.js.map",
+    "main.js": "/AWARD/static/js/main.f573555d.chunk.js",
+    "main.js.map": "/AWARD/static/js/main.f573555d.chunk.js.map",
     "runtime-main.js": "/AWARD/static/js/runtime-main.96a8de00.js",
     "runtime-main.js.map": "/AWARD/static/js/runtime-main.96a8de00.js.map",
     "static/js/2.fce77743.chunk.js": "/AWARD/static/js/2.fce77743.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.96a8de00.js",
     "static/js/2.fce77743.chunk.js",
     "static/css/main.bb1715ad.chunk.css",
-    "static/js/main.eb16358e.chunk.js"
+    "static/js/main.f573555d.chunk.js"
   ]
 }
